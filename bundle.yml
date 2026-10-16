@@ -12,7 +12,7 @@ projects:
         version: 1.6.1
     - eccodes:
         git: https://github.com/ecmwf/eccodes.git
-        version: 2.38.3
+        version: 2.48.0
     - falfilfa:
         git: https://github.com/AlexandreMary/falfilfa.git
         version: develop
